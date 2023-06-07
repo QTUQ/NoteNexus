@@ -1,3 +1,15 @@
+
+
+<img width="1345" alt="Screenshot 2023-06-07 at 10 51 22 PM" src="https://github.com/QTUQ/NoteNexus/assets/112546397/3a523c94-98af-4901-9227-101d6d103eeb">
+
+
+
+<img width="1358" alt="Screenshot 2023-06-07 at 10 53 54 PM" src="https://github.com/QTUQ/NoteNexus/assets/112546397/4322c6b3-020d-4843-a499-a2f10bb602c2">
+
+<img width="1353" alt="Screenshot 2023-06-07 at 10 54 41 PM" src="https://github.com/QTUQ/NoteNexus/assets/112546397/3c50a479-19fd-4a85-b42b-0d4e2b692cb3">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
